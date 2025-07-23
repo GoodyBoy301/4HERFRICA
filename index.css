@@ -1,0 +1,15 @@
+h1 {
+  color: blue;
+  text-decoration: underline overline;
+}
+
+h2 {
+  background-color: purple;
+  font-size: 80px;
+  height: 100px;
+  letter-spacing: 10px;
+}
+
+selector {
+  property: value;
+}
